@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'nino_medium_caps';
+    src: url('../fonts/ge/bpg_nino_medium_caps-webfont.eot');
+    src: url('../fonts/ge/bpg_nino_medium_caps-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ge/bpg_nino_medium_caps-webfont.woff') format('woff'),
+         url('../fonts/ge/bpg_nino_medium_caps-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.titlestyle{
+	font-family: 'nino_medium_caps' !important;
+	color:#000;
+	font-size:16px !important;
+	}
+.textcolor{
+	color:#0099cc !important;
+	}	
+.paragraph{
+	text-indent:30px;
+	}
+.lineheight19{
+	line-height:19px;
+	}
+.lineheight22{
+	line-height:22px;
+	}	
